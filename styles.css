@@ -1,0 +1,14 @@
+#welcome {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 40px;
+    background-color: blue;
+    font-weight: bold;
+    color: greenyellow;
+}
+
+p {
+    color: green;
+    font-size: 32px;
+}
