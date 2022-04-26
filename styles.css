@@ -9,6 +9,21 @@
 }
 
 p {
-    color: green;
     font-size: 32px;
+    font-weight: bold;
+}
+
+.intro {
+    font-weight: 500;
+    font-size: 24px;
+    color: darkblue;
+}
+
+.toadd {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-weight: 500;
+    color: grey;
+    font-size: 20px;
 }
